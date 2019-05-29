@@ -1,2 +1,3 @@
-"# PythonROOM" 
-"# PythonROOM" 
+# ようこそ Python 初心者講座へ
+
+## 1. 
