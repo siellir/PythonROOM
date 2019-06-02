@@ -9,7 +9,7 @@
 
 
 ## 1. [Python ？　ディープラーニング？　興味があるけど…](https://github.com/siellir/PythonROOM/blob/master/10_%E3%82%88%E3%81%BF%E3%82%82%E3%81%AE/00.FirstToFight.md)
-興味があるなら自分で使えるようになるとええよね！
+興味があるなら自分で使えるようになるとええよね！  
 入口が言語側の人向けの、ざっくり説明。  
 
     
