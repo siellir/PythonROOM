@@ -18,11 +18,14 @@
 宿題付き。  
   
 
-## 3. (作業中)[変数と型について](https://github.com/siellir/PythonROOM/blob/master/10_%E3%82%88%E3%81%BF%E3%82%82%E3%81%AE/02.%20hensuuu.md)
-作業ちゅう過ぎて大変なことになってる。  
+## 3. [変数と型について](https://github.com/siellir/PythonROOM/blob/master/10_%E3%82%88%E3%81%BF%E3%82%82%E3%81%AE/02.%20hensuuu.md)
+Python での「型」について。  
+変数は定義しなくても使えます。  
   
 
 ## 4. [すぐに使える文例集 If と For](https://github.com/siellir/PythonROOM/blob/master/10_%E3%82%88%E3%81%BF%E3%82%82%E3%81%AE/03.if_and_for.md) 
 基本的な判定文 If と、基本的なループ文 For の使い方実例。  
-そのまま動かせるように、あとで Paiza.io のURL とか付けたい。  
-つまり作業中。  
+Paiza.io 上で実際のコード実行結果が確かめられます。  
+自分でコードを変更したり、print 文を追加して変数の中身を確認してみてください。
+
+
